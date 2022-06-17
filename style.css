@@ -1,0 +1,47 @@
+.MainTitle {
+    text-align: center;
+    font-size: 65px;
+    
+}
+
+.MainGif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-style:solid ;
+  }
+
+  .Underline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+body{
+    background-color: #f7e7ce ;
+}
+
+.pizzaPicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:solid ;
+    width: 400px;
+    height: auto
+}
+
+.wafflePicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:solid ;
+    width: 400px;
+    height: auto
+}
+
+.recipeText {
+    text-align: center;
+    font-size: 45px;
+}
